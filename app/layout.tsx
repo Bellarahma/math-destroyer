@@ -9,7 +9,7 @@ import Crosshair from './components/MouseEffect'
 // })
 
 export const metadata: Metadata = {
-    title: 'Math Spaceship Game',
+    title: 'Math Destroyer',
     description: 'Retro arcade game with math challenges',
 }
 

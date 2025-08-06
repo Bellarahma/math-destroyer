@@ -28,7 +28,7 @@ export default function Home() {
             />
             <div className="absolute inset-0 flex flex-col items-center justify-center z-10">
                 <h1 className="text-6xl md:text-8xl font-bold mb-8 text-center text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600">
-                    MATH SPACESHIP
+                    MATH DESTROYER
                 </h1>
 
                 <div className="mb-12">
