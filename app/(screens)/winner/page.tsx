@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import Button from '@/components/Button';
 import { useSearchParams } from 'next/navigation';
-import { useEffect } from 'react';
+import { Suspense, useEffect } from 'react';
 import { playVictorySound } from '@/assets/sounds';
 import Particles from '@/components/Background';
 
@@ -29,7 +29,7 @@ export default function WinnerScreen() {
     }, [score, difficulty]);
 
     return (
-        <div className="h-screen flex flex-col items-center justify-center relative overflow-hidden">
+        <Suspense><div className="h-screen flex flex-col items-center justify-center relative overflow-hidden">
             <Particles
                 particleColors={['#ffffff', '#ffffff']}
                 particleCount={200}
@@ -86,5 +86,6 @@ export default function WinnerScreen() {
                 </div>
             </div>
         </div>
+        </Suspense>
     );
 }
