@@ -6,9 +6,9 @@
 
 **Blast your way to math mastery in this retro-style arcade game!** Combine fast-paced spaceship action with math challenges as you solve equations to defeat enemy ships. Perfect for students, gamers, and anyone looking to sharpen their math skills in a fun way.
 
-👉 **[Play the Live Demo](https://math-destroyer.vercel.app/)** 👈
+**[Play the Live Demo](https://math-destroyer.vercel.app/)**
 
-![Game Screenshot](https://raw.githubusercontent.com/username/math-spaceship-game/main/public/screenshots/gameplay.png)
+![Gameplay Video](https://github.com/user-attachments/assets/5420071f-a18e-419e-86a0-4306ece6a178)
 
 ## 🎯 Core Idea
 
@@ -120,16 +120,6 @@ npm start
 5. **Shoot** by clicking mouse or pressing spacebar/enter
 6. **Answer quickly** to earn bonus points!
 7. **Complete all 10 questions** without losing all lives to win!
-
-## 📸 Screenshots
-
-| Home Screen                                                                                                     | Level Selector                                                                                                               | Gameplay                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| ![Home Screen](https://raw.githubusercontent.com/username/math-spaceship-game/main/public/screenshots/home.png) | ![Level Selector](https://raw.githubusercontent.com/username/math-spaceship-game/main/public/screenshots/level-selector.png) | ![Gameplay](https://raw.githubusercontent.com/username/math-spaceship-game/main/public/screenshots/gameplay.png) |
-
-| Winner Screen                                                                                                       | Loser Screen                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| ![Winner Screen](https://raw.githubusercontent.com/username/math-spaceship-game/main/public/screenshots/winner.png) | ![Loser Screen](https://raw.githubusercontent.com/username/math-spaceship-game/main/public/screenshots/loser.png) |
 
 ## 🤝 Contributing
 
